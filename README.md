@@ -10,12 +10,13 @@ I am more confident with JavaScript as I've used it more than Haskell, but becau
 
 The JavaScript solution can be run as a bookmarklet or online using jsfiddle
 
+TO RUN IN A JS INTERPRETER
 1. Copy and Paste the raw contents of js/cracklepop.min.js into a JavaScript Shell (like [JSFiddle.net](https://jsfiddle.net/))
 
 2. Hit Enter or Click Run and Bask in the glorious world of Crackles, Pops, and CracklePops.
 
-OR
 
+TO RUN AS A BOOKMARKLET
 1. Copy the raw bookmarklet code from js/bookmarklet
 
 2. In your browser of choice navigate to create a new bookmark manually
