@@ -14,6 +14,16 @@ The JavaScript solution can be run as a bookmarklet or online using jsfiddle
 
 2. Hit Enter or Click Run and Bask in the glorious world of Crackles, Pops, and CracklePops.
 
+OR
+
+1. Copy the raw bookmarklet code from js/bookmarklet
+
+2. In your browser of choice navigate to create a new bookmark manually
+
+3. Paste the copied contents of the js/bookmarklet file into the URL part of the new bookmark.
+
+4. Navigate to a website that does NOT have a Content Security Policy limiting the execution of this script (recurse.com works well)
+
 ## How to Run Haskell Version (Tested with GHC 8.0.1 on Debian)
 
 Depends:
