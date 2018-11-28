@@ -2,7 +2,7 @@
 
 I've included two exercises here one in JavaScript in the js directory and one in Haskell in the hs directory.
 
-I had a lot of fun with the JavaScript version, especially with minifying.  Though I must admit drawing some inspiration from a similar iterative version (https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a)
+I had a lot of fun with the JavaScript version, especially with minifying.  Though I must admit drawing some inspiration from a similar iterative version (https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a).  My solutions are recursive as that seemed most appropriate ;)
 
 I am more confident with JavaScript as I've used it more than Haskell, but because I was curious I pieced together a solution as a learning opportunity that can be run in GHC.
 
