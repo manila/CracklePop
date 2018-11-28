@@ -11,17 +11,17 @@ I am more confident with JavaScript as I've used it more than Haskell, but becau
 The JavaScript solution can be run as a bookmarklet or online using jsfiddle
 
 TO RUN IN A JS INTERPRETER
-1. Copy and Paste the raw contents of js/cracklepop.min.js into a JavaScript Shell (like [JSFiddle.net](https://jsfiddle.net/))
+1. Copy and Paste the raw contents of [js/cracklepop.min.js](https://raw.githubusercontent.com/manila/cracklepop/master/js/cracklepop.min.js) or [js/cracklepop.js](https://raw.githubusercontent.com/manila/cracklepop/master/js/cracklepop.js) into a JavaScript Shell (like [JSFiddle.net](https://jsfiddle.net/))
 
 2. Hit Enter or Click Run and Bask in the glorious world of Crackles, Pops, and CracklePops.
 
 
 TO RUN AS A BOOKMARKLET
-1. Copy the raw bookmarklet code from js/bookmarklet
+1. Copy the raw bookmarklet code from [js/bookmarklet](https://raw.githubusercontent.com/manila/cracklepop/master/js/bookmarklet)
 
 2. In your browser of choice navigate to create a new bookmark manually
 
-3. Paste the copied contents of the js/bookmarklet file into the URL part of the new bookmark.
+3. Paste the copied contents of the [js/bookmarklet](https://raw.githubusercontent.com/manila/cracklepop/master/js/bookmarklet) file into the URL part of the new bookmark.
 
 4. Navigate to a website that does NOT have a Content Security Policy limiting the execution of this script (recurse.com works well)
 
@@ -30,7 +30,7 @@ TO RUN AS A BOOKMARKLET
 Depends:
 ```ghc```
 
-1. Download hs/cracklepop.hs 
+1. Download [hs/cracklepop.hs](https://raw.githubusercontent.com/manila/cracklepop/master/hs/cracklepop.hs)
 
 2. Compile with ```ghc``` & Run
 
