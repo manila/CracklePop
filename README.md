@@ -2,24 +2,26 @@
 
 I've included two exercises here one in JavaScript in the js directory and one in Haskell in the hs directory.
 
-I suggest the JavaScript version as it is not only more recent but I feel it is a more complete solution.
+I had a lot of fun with the JavaScript version, especially with minifying.  Though I must admit drawing some inspiration from a similar iterative version (https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a)
 
 I am more confident with JavaScript as I've used it more than Haskell, but because I was curious I pieced together a solution as a learning opportunity that can be run in GHC.
 
-## How to Run Javascript Version (Bookmarklet)
+## How to Run Javascript Version (or Bookmarklet)
 
-The JavaScript solution can be run in the browser.
-NOTE: this will NOT work on any website what has a Content Security Policy in place that limits this browser behavior. I've found that recusecenter.com will work well.
+The JavaScript solution can be run as a bookmarklet or online using jsfiddle
 
-1. Copy the bookmarklet raw code and paste into the browser url bar.
+1. Copy and Paste the raw contents of js/cracklepop.min.js into a JavaScript Shell (like [JSFiddle.net](https://jsfiddle.net/))
 
-2. Bask in the glorious world of Crackles, Pops, and CracklePops.
+2. Hit Enter or Click Run and Bask in the glorious world of Crackles, Pops, and CracklePops.
 
-## How to Run Haskell Version (Tested in GHC)
+## How to Run Haskell Version (Tested with GHC 8.0.1 on Debian)
 
-1. Copy raw Haskell Code from the hs/cracklepop.hs
+Depends:
+```ghc```
 
-2. Paste into GHC, Press Enter
+1. Download hs/cracklepop.hs 
+
+2. Compile with ```ghc``` & Run
 
 3. No you aren't in the Matrix, thats just a side effect [Bad Haskell Joke]
 
